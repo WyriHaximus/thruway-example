@@ -1,0 +1,15 @@
+{
+    "require": {
+        "php": "^7.3",
+        "voryx/thruway": "^0.5.3",
+        "react/http": "^0.8.4",
+        "thruway/middleware": "^0.0.2",
+        "wyrihaximus/react-http-middleware-rewrite": "^1.0",
+        "wyrihaximus/react-http-middleware-webroot-preload": "^1.5"
+    },
+    "config": {
+        "platform": {
+            "php": "7.3"
+        }
+    }
+}
