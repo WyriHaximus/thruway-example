@@ -39,6 +39,6 @@
     "redux-devtools-extension": "^2.13.7",
     "webpack": "^4.17.1",
     "webpack-bundle-analyzer": "^3.0.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   }
 }
